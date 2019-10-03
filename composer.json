@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Find_Feed",
+    "name": "openmage-module-fostering\/find_feed",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Integration with TheFind shopping engine",
     "authors": [
